@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>YILAN OYUNUson</name>
+            <creation-uuid>d2e5cd8a-9bc0-43d0-a3d1-84eb5dc5591f</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../OneDrive/Desktop/Uyg_2/lib/application_linker_file</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/Uyg_2/lib/src</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/lib/src</sourceRootElem>
+                <sourceRootElem>../../OneDrive/Desktop/lib/application_linker_file</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
